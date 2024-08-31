@@ -3,7 +3,7 @@
 Whether you're a student, researcher, or professional, AskDoc AI simplifies the process of extracting knowledge from dense text, enabling more efficient study sessions, research analyses, and decision-making processes. Experience a smarter way to engage with your documents and let AI assist you in discovering the answers you need.
 
 ## Usage
-1. Open the app in your browser using the provided local URL or [click here to check the app online](https://word-cloud-app-using-app-vdg4sqyabdwalhrjrpv37t.streamlit.app/).
+1. Open the app in your browser using the provided local URL or [click here to check the app online](https://askdoc-ai-app-zayabakhtar.streamlit.app/).
 2. Upload a `.txt`, `.pdf`, or `.docx` file.
 3. The app will automatically extract the text from your document.
 4. View the generated questions based on your document's content.
